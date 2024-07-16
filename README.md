@@ -5,14 +5,15 @@ I am a Mechanical Engineering student at Sri Krishna College of Engineering and 
 
 
 <img align="right" width="370" height="290" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
-- 🔭 Here's my [portfolio](https://sanjaysudhan.netlify.app/)     
--  🔧  Mechanical Engineering student with a passion for Computer Science Engineering 💻            
+
+- 🔭 Here's my [portfolio](https://sanjaysudhan.netlify.app)     
+- 🔧  Mechanical Engineering student with a passion for Computer Science Engineering 💻            
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for Internship
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjaysudhan-sivashunmugam-a5a901255/)
+<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjaysudhan-sivashunmugam-a5a901255/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact I am Focused
 
