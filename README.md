@@ -26,7 +26,7 @@ I am a Mechanical Engineering student at Sri Krishna College of Engineering and 
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SanjaysudhanS?theme=dark&font=Brygada%201918&ext=heatmap)](https://leetcode.com/u/SanjaysudhanS)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sanjaysudhan)](https://auth.geeksforgeeks.org/user/sanjaysudhan/practice/)
 [![Sanjaysudhan S's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjaysudhanSivashunmugam&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/SanjaysudhanSivashunmugam)
-
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
