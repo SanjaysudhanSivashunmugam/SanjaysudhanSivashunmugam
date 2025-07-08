@@ -19,10 +19,13 @@ I am a Mechanical Engineering student at Sri Krishna College of Engineering and 
 
 
 ### I code in 🧑🏾‍💻
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/office/48/react.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png"/> <img height="50" width="50" src="https://img.icons8.com/ios/50/express-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/500/mysql-logo.png" alt="mysql-logo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/postgreesql.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/glyph-neue/48/github.png"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
+
 
 
 
