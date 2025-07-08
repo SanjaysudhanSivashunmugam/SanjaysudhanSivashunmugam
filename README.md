@@ -6,7 +6,7 @@ I am a Mechanical Engineering student at Sri Krishna College of Engineering and 
 
 <img align="right" width="370" height="290" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-- 🔭 Here's my [portfolio](https://sanjaysudhan.netlify.app)     
+- 🔭 Here's my [portfolio](https://sanjaysudhan.vercel.app/)     
 - 🔧  Mechanical Engineering student with a passion for Computer Science Engineering 💻            
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Projects
